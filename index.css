@@ -10,7 +10,7 @@
   width: 100%;
 }
 .infoContainer {
-  z-index: 1000;
+  z-index: 1;
   position: fixed;
   top: 0;
   left: 0;
@@ -20,6 +20,7 @@
   opacity: 0.2;
 }
 .infobox {
+  z-index: 2;
   -webkit-animation-name: showInfo;
   -webkit-animation-duration: 1s;
   animation-name: showInfo;
