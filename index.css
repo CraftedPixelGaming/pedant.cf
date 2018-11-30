@@ -11,6 +11,8 @@
 }
 .infocontainer {
   z-index: 100;
+  background-color: #000000;
+  opacity: 0.2;
 }
 .infobox {
   -webkit-animation-name: showInfo;
