@@ -1,5 +1,4 @@
 .header {
-  z-index: -1;
   position: fixed;
   top: 0;
   left: 0;
@@ -10,13 +9,12 @@
   background-color: #cc0000;
   width: 100%;
 }
-.infocontainer {
+.infoContainer {
   z-index: 1;
   background-color: #000000;
   opacity: 0.8;
 }
 .infobox {
-  z-index: 2;
   -webkit-animation-name: showInfo;
   -webkit-animation-duration: 1s;
   animation-name: showInfo;
