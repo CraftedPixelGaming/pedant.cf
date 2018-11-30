@@ -10,7 +10,7 @@
   width: 100%;
 }
 .infocontainer {
-  z-index: 1;
+  z-index: -1;
 }
 .infobox {
   -webkit-animation-name: showInfo;
