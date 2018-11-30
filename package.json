@@ -4,8 +4,5 @@
   "private": true,
   "dependencies": {
     "thelounge": "3.0.0-rc.5"
-  },
-  "scripts": {
-    "build": "run-p build:**"
   }
 }
