@@ -20,7 +20,7 @@
   opacity: 0.4;
 }
 .infobox {
-  z-index: 2;
+  opacity: 1;
   -webkit-animation-name: showInfo;
   -webkit-animation-duration: 1s;
   animation-name: showInfo;
