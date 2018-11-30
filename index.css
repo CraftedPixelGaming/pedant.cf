@@ -29,10 +29,10 @@
 }
 
 @-webkit-keyframes showInfo {
-    from {top: 100%; transform: translate(-50%, -50%);}
-    to {top: 50%; transform: translate(-50%, -50%);}
+    from {top: 100%; transform: translate(-50%, -50%); opacity: 0;}
+    to {top: 50%; transform: translate(-50%, -50%); opactiy: 1;}
 }
 @keyframes showInfo {
-    from {top: 100%; transform: translate(-50%, -50%);}
-    to {top: 50%; transform: translate(-50%, -50%);}
+    from {top: 100%; transform: translate(-50%, -50%); opactiy: 0;}
+    to {top: 50%; transform: translate(-50%, -50%); opactiy: 1;}
 }
