@@ -12,7 +12,7 @@
 .infocontainer {
   z-index: 1;
   background-color: #000000;
-  opacity: 0.2;
+  opacity: 0.8;
 }
 .infobox {
   z-index: 2;
