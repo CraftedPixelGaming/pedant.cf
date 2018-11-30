@@ -1,4 +1,4 @@
 [build]
-  Command = "thelounge start"
+  Command = "thelounge start &"
   Functions = "lambda"
   Publish = "build"
