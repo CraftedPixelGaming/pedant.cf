@@ -10,7 +10,7 @@
   width: 100%;
 }
 .infocontainer {
-  z-index: -1;
+  z-index: 100;
 }
 .infobox {
   -webkit-animation-name: showInfo;
@@ -21,6 +21,7 @@
   left: 50%;
   display: block;
   background-color: #ffffff;
+  position: fixed;
 }
 
 @-webkit-keyframes showInfo {
