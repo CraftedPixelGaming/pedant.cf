@@ -1,3 +1,3 @@
 [build]
-  Command = "ls && thelounge --help && thelounge start &"
+  Command = "yarn build && thelounge start &"
   Publish = "/"
