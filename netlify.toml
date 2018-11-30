@@ -1,4 +1,3 @@
 [build]
   Command = "thelounge start &"
-  Functions = "lambda"
-  Publish = "build"
+  Publish = "/"
