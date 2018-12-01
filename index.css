@@ -19,7 +19,6 @@
   opacity: 0.4;
 }
 .infobox {
-  opacity: 1;
   -webkit-animation-name: showInfo;
   -webkit-animation-duration: 1s;
   animation-name: showInfo;
@@ -32,6 +31,7 @@
   position: fixed;
 }
 .infoTitle {
+  opacity: 0.4;
   z-index: 1;
   position: relative;
   width: 100%;
