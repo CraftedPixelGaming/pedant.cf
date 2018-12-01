@@ -39,9 +39,10 @@
   height: 20%;
   top: 0;
   left: 0;
-  background-color: #5555cc;
+  background-color: #3333cc;
   border-radius: 20px 20px 0px 0px;
   display: block;
+  text-align: center;
 }
 @-webkit-keyframes showInfo {
     from {top: 100%; transform: translate(-50%, -50%); opacity: 0;}
