@@ -30,7 +30,6 @@
   border-radius: 20px;
   transform: translate(-50%, -50%);
   display: block;
-  background-color: #ffffff;
   position: fixed;
 }
 .infoTitle {
@@ -39,7 +38,7 @@
   height: 20%;
   top: 0;
   left: 0;
-  background-color: #3333cc;
+  background-color: #40e0d0;
   border-radius: 20px 20px 0px 0px;
   display: block;
   text-align: center;
