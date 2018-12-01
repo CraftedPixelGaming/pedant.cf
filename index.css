@@ -10,7 +10,6 @@
   width: 100%;
 }
 .infoContainer {
-  z-index: 1;
   position: fixed;
   top: 0;
   left: 0;
@@ -33,7 +32,7 @@
   position: fixed;
 }
 .infoTitle {
-  z-index: 5;
+  z-index: 1;
   position: relative;
   width: 100%;
   height: 20%;
