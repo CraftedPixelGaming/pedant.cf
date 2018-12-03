@@ -61,6 +61,10 @@ p {
   text-align: center;
   font-size: 2vmin;
 }
+.content {
+  color: transparent;
+  text-shadow: 0 0 5px rgba(0,0,0,0.5);
+}
 @-webkit-keyframes showInfo {
     from {top: 100%; transform: translate(-50%, -50%); opacity: 0;}
     to {top: 50%; transform: translate(-50%, -50%); opactiy: 1;}
