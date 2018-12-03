@@ -47,6 +47,7 @@
   font-size: 3vmin;
 }
 .text {
+  display: inline;
   vertical-align: middle;
 }
 .infoContent {
