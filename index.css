@@ -15,7 +15,8 @@
   left: 0;
   font-size: 10vmin;
   text-align: center;
-  display: none;
+  display: block;
+  visibility: none;
   color: white;
   background-color: #cc0000;
   width: 100%;
