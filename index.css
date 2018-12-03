@@ -65,7 +65,7 @@ p {
 .content {
   margin-top: 13vmin;
   color: transparent;
-  text-shadow: 0 0 5px rgba(0,0,0,0.9);
+  text-shadow: 0 0 5px rgba(0,0,0,0.95);
 }
 @-webkit-keyframes showInfo {
     from {top: 100%; transform: translate(-50%, -50%); opacity: 0;}
