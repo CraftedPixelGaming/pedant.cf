@@ -9,9 +9,6 @@
   background-color: #cc0000;
   width: 100%;
 }
-.invis {
-  visibility: hidden;
-}
 .infoContainer {
   z-index: 1;
   position: fixed;
@@ -66,6 +63,7 @@ p {
 }
 .content {
   position: relative;
+  top: 100%;
   color: transparent;
   text-shadow: 0 0 5px rgba(0,0,0,0.5);
 }
