@@ -1,10 +1,21 @@
-.main {
+.header {
   position: fixed;
   top: 0;
   left: 0;
   font-size: 10vmin;
   text-align: center;
   display: block;
+  color: white;
+  background-color: #cc0000;
+  width: 100%;
+}
+.header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  font-size: 10vmin;
+  text-align: center;
+  display: none;
   color: white;
   background-color: #cc0000;
   width: 100%;
