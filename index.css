@@ -2,7 +2,7 @@
   position: fixed;
   top: 0;
   left: 0;
-  height: 10%
+  height: 5vmin;
   font-size: 10vmin;
   text-align: center;
   display: block;
@@ -63,9 +63,9 @@ p {
   font-size: 2vmin;
 }
 .content {
-  margin-left:25%;
+  margin-top: 5vmin;
   color: transparent;
-  text-shadow: 0 0 5px rgba(0,0,0,0.5);
+  text-shadow: 0 0 5px rgba(0,0,0,0.7);
 }
 @-webkit-keyframes showInfo {
     from {top: 100%; transform: translate(-50%, -50%); opacity: 0;}
