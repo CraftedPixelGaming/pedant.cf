@@ -44,7 +44,10 @@
   border-radius: 20px 20px 0px 0px;
   display: block;
   text-align: center;
-  font-size: 4vmin;
+  font-size: 3vmin;
+}
+.text {
+  vertical-align: middle;
 }
 .infoContent {
   position: relative;
