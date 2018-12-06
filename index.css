@@ -32,8 +32,8 @@
   display: block;
   position: fixed;
   z-index: 2;
-  width: 50vmin;
-  height: 30vmin;
+  width: 70vmin;
+  height: 45vmin;
 }
 .infoTitle {
   position: relative;
